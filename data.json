@@ -1,0 +1,1442 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "سلام و معرفی",
+      "description": "در این فصل با جملات ساده و پایه‌ای برای سلام کردن و معرفی خود آشنا می‌شوید",
+      "icon": "👋",
+      "sentences": [
+        {
+          "id": 1,
+          "english": "Hello! How are you?",
+          "words": [
+            {"word": "Hello", "meaning": "سلام"},
+            {"word": "How", "meaning": "چطور"},
+            {"word": "are", "meaning": "هستید (از فعل be)"},
+            {"word": "you", "meaning": "شما"}
+          ],
+          "fullTranslation": "سلام! حالتان چطور است؟ / سلام، چطوری؟",
+          "notes": [
+            "<strong>Hello</strong> یک سلام غیررسمی است که در هر موقعیتی استفاده می‌شود",
+            "<strong>How are you?</strong> سوال استاندارد برای پرسیدن حال طرف مقابل",
+            "پاسخ‌های رایج: I'm fine (خوبم), I'm good (خوبم), Not bad (بد نیست)"
+          ]
+        },
+        {
+          "id": 2,
+          "english": "My name is Sarah.",
+          "words": [
+            {"word": "My", "meaning": "مال من"},
+            {"word": "name", "meaning": "نام / اسم"},
+            {"word": "is", "meaning": "است (از فعل be)"},
+            {"word": "Sarah", "meaning": "سارا (اسم خاص)"}
+          ],
+          "fullTranslation": "اسم من سارا است. / من سارا هستم.",
+          "notes": [
+            "<strong>My</strong> یک <em>possessive adjective</em> (صفت ملکی) است",
+            "ساختار: My + name + is + name",
+            "برای معرفی خود از این جمله استفاده می‌شود"
+          ]
+        },
+        {
+          "id": 3,
+          "english": "I am from Iran.",
+          "words": [
+            {"word": "I", "meaning": "من"},
+            {"word": "am", "meaning": "هستم (از فعل be)"},
+            {"word": "from", "meaning": "از"},
+            {"word": "Iran", "meaning": "ایران (اسم کشور)"}
+          ],
+          "fullTranslation": "من از ایران هستم.",
+          "notes": [
+            "<strong>From</strong> برای نشان دادن مبدأ یا محل تولد استفاده می‌شود",
+            "برای ملیت: She is from Iran = او ایرانی است",
+            "بعد از \"am\" فعل دیگری نمی‌آید"
+          ]
+        },
+        {
+          "id": 4,
+          "english": "I am twenty years old.",
+          "words": [
+            {"word": "I", "meaning": "من"},
+            {"word": "am", "meaning": "هستم"},
+            {"word": "twenty", "meaning": "بیست"},
+            {"word": "years", "meaning": "سال (جمع year)"},
+            {"word": "old", "meaning": "قدیمی / سن"}
+          ],
+          "fullTranslation": "من بیست سال دارم.",
+          "notes": [
+            "<strong>Years old</strong> برای بیان سن استفاده می‌شود",
+            "ساختار: number + years + old",
+            "مثال: 25 years old = بیست و پنج سال"
+          ]
+        },
+        {
+          "id": 5,
+          "english": "Nice to meet you.",
+          "words": [
+            {"word": "Nice", "meaning": "خوش"},
+            {"word": "to", "meaning": "به (حرف اضافه)"},
+            {"word": "meet", "meaning": "ملاقات کردن"},
+            {"word": "you", "meaning": "شما"}
+          ],
+          "fullTranslation": "خوشحالم که با شما آشنا شدم.",
+          "notes": [
+            "این جمله در اولین ملاقات استفاده می‌شود",
+            "پاسخ معمول: Nice to meet you too (من هم)",
+            "<strong>Meet</strong> = آشنا شدن (برای اولین بار)"
+          ]
+        },
+        {
+          "id": 6,
+          "english": "What is your job?",
+          "words": [
+            {"word": "What", "meaning": "چه / چی"},
+            {"word": "is", "meaning": "هست"},
+            {"word": "your", "meaning": "مال شما"},
+            {"word": "job", "meaning": "شغل / کار"}
+          ],
+          "fullTranslation": "شغل شما چیست؟ / چه کاری انجام می‌دهید؟",
+          "notes": [
+            "<strong>What</strong> برای سوال درباره اشیاء و موضوعات استفاده می‌شود",
+            "ساختار سوال: What + is + possessive + noun",
+            "همچنین می‌توان گفت: What do you do?"
+          ]
+        },
+        {
+          "id": 7,
+          "english": "I am a student.",
+          "words": [
+            {"word": "I", "meaning": "من"},
+            {"word": "am", "meaning": "هستم"},
+            {"word": "a", "meaning": "یک (حرف تعریف)"},
+            {"word": "student", "meaning": "دانشجو / دانش‌آموز"}
+          ],
+          "fullTranslation": "من یک دانشجو هستم.",
+          "notes": [
+            "<strong>a/an</strong> حرف تعریف نامعین است",
+            "از \"a\" قبل از کلمات با صدای صامت استفاده می‌شود",
+            "از \"an\" قبل از کلمات با صدای مصوت استفاده می‌شود (مثل: an engineer)"
+          ]
+        },
+        {
+          "id": 8,
+          "english": "Where do you live?",
+          "words": [
+            {"word": "Where", "meaning": "کجا"},
+            {"word": "do", "meaning": "فعل کمکی"},
+            {"word": "you", "meaning": "شما"},
+            {"word": "live", "meaning": "زندگی کردن"}
+          ],
+          "fullTranslation": "کجا زندگی می‌کنید؟",
+          "notes": [
+            "<strong>Where</strong> برای سوال درباره مکان استفاده می‌شود",
+            "ساختار: Where + do/does + subject + verb",
+            "پاسخ: I live in Tehran (من در تهران زندگی می‌کنم)"
+          ]
+        },
+        {
+          "id": 9,
+          "english": "I live in Tehran.",
+          "words": [
+            {"word": "I", "meaning": "من"},
+            {"word": "live", "meaning": "زندگی می‌کنم"},
+            {"word": "in", "meaning": "در"},
+            {"word": "Tehran", "meaning": "تهران"}
+          ],
+          "fullTranslation": "من در تهران زندگی می‌کنم.",
+          "notes": [
+            "<strong>in</strong> برای شهرها و کشورها استفاده می‌شود",
+            "مثال: in Iran, in London, in Japan",
+            "برای آدرس دقیق از \"at\" استفاده می‌شود"
+          ]
+        },
+        {
+          "id": 10,
+          "english": "Good morning!",
+          "words": [
+            {"word": "Good", "meaning": "خوب"},
+            {"word": "morning", "meaning": "صبح"}
+          ],
+          "fullTranslation": "صبح بخیر!",
+          "notes": [
+            "<strong>Good morning</strong> تا حدود ظهر استفاده می‌شود",
+            "<strong>Good afternoon</strong> از ظهر تا عصر",
+            "<strong>Good evening</strong> از عصر به بعد"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {"english": "Hello", "persian": "سلام"},
+        {"english": "Name", "persian": "نام"},
+        {"english": "From", "persian": "از"},
+        {"english": "Years old", "persian": "سال (سن)"},
+        {"english": "Job", "persian": "شغل"},
+        {"english": "Student", "persian": "دانشجو"},
+        {"english": "Live", "persian": "زندگی کردن"},
+        {"english": "Morning", "persian": "صبح"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "خانواده و دوستان",
+      "description": "در این فصل با واژگان و جملات مربوط به خانواده و روابط آشنا می‌شوید",
+      "icon": "👨‍👩‍👧‍👦",
+      "sentences": [
+        {
+          "id": 1,
+          "english": "This is my family.",
+          "words": [
+            {"word": "This", "meaning": "این"},
+            {"word": "is", "meaning": "است"},
+            {"word": "my", "meaning": "مال من"},
+            {"word": "family", "meaning": "خانواده"}
+          ],
+          "fullTranslation": "این خانواده من است.",
+          "notes": [
+            "<strong>This</strong> برای اشاره به چیزی نزدیک استفاده می‌شود",
+            "<strong>That</strong> برای اشاره به چیزی دور استفاده می‌شود",
+            "ساختار: This/That + is + possessive + noun"
+          ]
+        },
+        {
+          "id": 2,
+          "english": "I have two brothers.",
+          "words": [
+            {"word": "I", "meaning": "من"},
+            {"word": "have", "meaning": "دارم"},
+            {"word": "two", "meaning": "دو"},
+            {"word": "brothers", "meaning": "برادرها"}
+          ],
+          "fullTranslation": "من دو برادر دارم.",
+          "notes": [
+            "<strong>Have</strong> فعل داشتن است",
+            "برای سوم شخص مفرد از <strong>has</strong> استفاده می‌شود",
+            "مثال: She has one sister (او یک خواهر دارد)"
+          ]
+        },
+        {
+          "id": 3,
+          "english": "My mother is a teacher.",
+          "words": [
+            {"word": "My", "meaning": "مال من"},
+            {"word": "mother", "meaning": "مادر"},
+            {"word": "is", "meaning": "است"},
+            {"word": "a", "meaning": "یک"},
+            {"word": "teacher", "meaning": "معلم"}
+          ],
+          "fullTranslation": "مادر من معلم است.",
+          "notes": [
+            "<strong>Mother</strong> = مادر، <strong>Mom</strong> = مامان (غیررسمی)",
+            "<strong>Father</strong> = پدر، <strong>Dad</strong> = بابا (غیررسمی)",
+            "برای شغل‌ها از a/an استفاده می‌کنیم"
+          ]
+        },
+        {
+          "id": 4,
+          "english": "My father works in a hospital.",
+          "words": [
+            {"word": "My", "meaning": "مال من"},
+            {"word": "father", "meaning": "پدر"},
+            {"word": "works", "meaning": "کار می‌کند"},
+            {"word": "in", "meaning": "در"},
+            {"word": "a", "meaning": "یک"},
+            {"word": "hospital", "meaning": "بیمارستان"}
+          ],
+          "fullTranslation": "پدر من در بیمارستان کار می‌کند.",
+          "notes": [
+            "<strong>Works</strong> فعل سوم شخص مفرد از work است",
+            "در زمان حال ساده، فعل برای he/she/it یک s می‌گیرد",
+            "ساختار: Subject + verb(s) + in + place"
+          ]
+        },
+        {
+          "id": 5,
+          "english": "I have a younger sister.",
+          "words": [
+            {"word": "I", "meaning": "من"},
+            {"word": "have", "meaning": "دارم"},
+            {"word": "a", "meaning": "یک"},
+            {"word": "younger", "meaning": "کوچکتر"},
+            {"word": "sister", "meaning": "خواهر"}
+          ],
+          "fullTranslation": "من یک خواهر کوچکتر دارم.",
+          "notes": [
+            "<strong>Younger</strong> = کوچکتر (از نظر سن)",
+            "<strong>Older/Elder</strong> = بزرگتر (از نظر سن)",
+            "صفات تفضیلی با -er ساخته می‌شوند"
+          ]
+        },
+        {
+          "id": 6,
+          "english": "She is my best friend.",
+          "words": [
+            {"word": "She", "meaning": "او (مؤنث)"},
+            {"word": "is", "meaning": "است"},
+            {"word": "my", "meaning": "مال من"},
+            {"word": "best", "meaning": "بهترین"},
+            {"word": "friend", "meaning": "دوست"}
+          ],
+          "fullTranslation": "او بهترین دوست من است.",
+          "notes": [
+            "<strong>Best</strong> صفت عالی از good است",
+            "<strong>Friend</strong> = دوست، <strong>Best friend</strong> = بهترین دوست",
+            "ضمایر: He (او مذکر), She (او مؤنث), It (آن برای اشیاء)"
+          ]
+        },
+        {
+          "id": 7,
+          "english": "We are classmates.",
+          "words": [
+            {"word": "We", "meaning": "ما"},
+            {"word": "are", "meaning": "هستیم"},
+            {"word": "classmates", "meaning": "همکلاسی‌ها"}
+          ],
+          "fullTranslation": "ما همکلاسی هستیم.",
+          "notes": [
+            "<strong>We</strong> ضمیر اول شخص جمع است",
+            "<strong>Classmate</strong> = همکلاسی",
+            "<strong>Roommate</strong> = هم‌اتاقی، <strong>Teammate</strong> = هم‌تیمی"
+          ]
+        },
+        {
+          "id": 8,
+          "english": "My grandparents live with us.",
+          "words": [
+            {"word": "My", "meaning": "مال من"},
+            {"word": "grandparents", "meaning": "پدربزرگ و مادربزرگ"},
+            {"word": "live", "meaning": "زندگی می‌کنند"},
+            {"word": "with", "meaning": "با"},
+            {"word": "us", "meaning": "ما"}
+          ],
+          "fullTranslation": "پدربزرگ و مادربزرگم با ما زندگی می‌کنند.",
+          "notes": [
+            "<strong>Grandparents</strong> = پدربزرگ و مادربزرگ",
+            "<strong>Grandfather</strong> = پدربزرگ، <strong>Grandmother</strong> = مادربزرگ",
+            "<strong>With</strong> حرف اضافه به معنی \"با\" است"
+          ]
+        },
+        {
+          "id": 9,
+          "english": "I love my family very much.",
+          "words": [
+            {"word": "I", "meaning": "من"},
+            {"word": "love", "meaning": "دوست دارم / عاشقم"},
+            {"word": "my", "meaning": "مال من"},
+            {"word": "family", "meaning": "خانواده"},
+            {"word": "very much", "meaning": "خیلی زیاد"}
+          ],
+          "fullTranslation": "من خانواده‌ام را خیلی دوست دارم.",
+          "notes": [
+            "<strong>Love</strong> = عشق / دوست داشتن (قوی)",
+            "<strong>Like</strong> = دوست داشتن (معمولی)",
+            "<strong>Very much</strong> برای تأکید استفاده می‌شود"
+          ]
+        },
+        {
+          "id": 10,
+          "english": "How many people are in your family?",
+          "words": [
+            {"word": "How many", "meaning": "چند تا"},
+            {"word": "people", "meaning": "نفر / افراد"},
+            {"word": "are", "meaning": "هستند"},
+            {"word": "in", "meaning": "در"},
+            {"word": "your", "meaning": "مال شما"},
+            {"word": "family", "meaning": "خانواده"}
+          ],
+          "fullTranslation": "چند نفر در خانواده شما هستند؟",
+          "notes": [
+            "<strong>How many</strong> برای سوال درباره تعداد اشیاء قابل شمارش",
+            "<strong>How much</strong> برای اشیاء غیرقابل شمارش",
+            "پاسخ: There are five people in my family"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {"english": "Family", "persian": "خانواده"},
+        {"english": "Mother/Mom", "persian": "مادر/مامان"},
+        {"english": "Father/Dad", "persian": "پدر/بابا"},
+        {"english": "Brother", "persian": "برادر"},
+        {"english": "Sister", "persian": "خواهر"},
+        {"english": "Grandparents", "persian": "پدربزرگ و مادربزرگ"},
+        {"english": "Friend", "persian": "دوست"},
+        {"english": "Love", "persian": "عشق / دوست داشتن"}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "مبانی کامپیوتر و سخت‌افزار",
+      "description": "در این فصل با واژگان و جملات تخصصی کامپیوتر و سخت‌افزار آشنا می‌شوید",
+      "icon": "💻",
+      "sentences": [
+        {
+          "id": 1,
+          "english": "The computer has a powerful processor.",
+          "words": [
+            {"word": "computer", "meaning": "کامپیوتر / رایانه"},
+            {"word": "has", "meaning": "دارد"},
+            {"word": "powerful", "meaning": "قدرتمند"},
+            {"word": "processor", "meaning": "پردازنده / CPU"}
+          ],
+          "fullTranslation": "این کامپیوتر یک پردازنده قدرتمند دارد.",
+          "notes": [
+            "<strong>Processor</strong> یا <strong>CPU</strong> (Central Processing Unit) مغز کامپیوتر است",
+            "پردازنده‌های معروف: Intel Core, AMD Ryzen",
+            "واحد سرعت پردازنده: GHz (گیگاهرتز)"
+          ]
+        },
+        {
+          "id": 2,
+          "english": "I need to upgrade my RAM.",
+          "words": [
+            {"word": "need", "meaning": "نیاز دارم"},
+            {"word": "to upgrade", "meaning": "ارتقا دادن"},
+            {"word": "RAM", "meaning": "حافظه موقت / رم"}
+          ],
+          "fullTranslation": "من باید رم خود را ارتقا دهم.",
+          "notes": [
+            "<strong>RAM</strong> = Random Access Memory (حافظه دسترسی تصادفی)",
+            "رم حافظه موقت است و با خاموش شدن کامپیوتر پاک می‌شود",
+            "واحد اندازه‌گیری: GB (گیگابایت) - مثلاً 8GB, 16GB, 32GB"
+          ]
+        },
+        {
+          "id": 3,
+          "english": "The hard drive stores all your files.",
+          "words": [
+            {"word": "hard drive", "meaning": "هارد دیسک / دیسک سخت"},
+            {"word": "stores", "meaning": "ذخیره می‌کند"},
+            {"word": "files", "meaning": "فایل‌ها"}
+          ],
+          "fullTranslation": "هارد دیسک تمام فایل‌های شما را ذخیره می‌کند.",
+          "notes": [
+            "<strong>HDD</strong> = Hard Disk Drive (هارد مکانیکی)",
+            "<strong>SSD</strong> = Solid State Drive (هارد حالت جامد - سریع‌تر)",
+            "واحد: GB یا TB (ترابایت)"
+          ]
+        },
+        {
+          "id": 4,
+          "english": "Connect the keyboard and mouse to the USB port.",
+          "words": [
+            {"word": "connect", "meaning": "وصل کردن"},
+            {"word": "keyboard", "meaning": "صفحه کلید / کیبورد"},
+            {"word": "mouse", "meaning": "موس / ماوس"},
+            {"word": "USB port", "meaning": "درگاه یو‌اس‌بی"}
+          ],
+          "fullTranslation": "کیبورد و موس را به درگاه USB وصل کنید.",
+          "notes": [
+            "<strong>USB</strong> = Universal Serial Bus",
+            "انواع USB: USB-A, USB-C, Micro USB",
+            "<strong>Port</strong> = درگاه / پورت"
+          ]
+        },
+        {
+          "id": 5,
+          "english": "The monitor displays the output.",
+          "words": [
+            {"word": "monitor", "meaning": "مانیتور / نمایشگر"},
+            {"word": "displays", "meaning": "نمایش می‌دهد"},
+            {"word": "output", "meaning": "خروجی"}
+          ],
+          "fullTranslation": "مانیتور خروجی را نمایش می‌دهد.",
+          "notes": [
+            "<strong>Monitor</strong> = نمایشگر، <strong>Screen</strong> = صفحه نمایش",
+            "رزولوشن‌های رایج: 1080p (Full HD), 4K",
+            "<strong>Output</strong> خروجی، <strong>Input</strong> ورودی"
+          ]
+        },
+        {
+          "id": 6,
+          "english": "The graphics card renders 3D images.",
+          "words": [
+            {"word": "graphics card", "meaning": "کارت گرافیک"},
+            {"word": "renders", "meaning": "رندر می‌کند / پردازش می‌کند"},
+            {"word": "3D images", "meaning": "تصاویر سه‌بعدی"}
+          ],
+          "fullTranslation": "کارت گرافیک تصاویر سه‌بعدی را پردازش می‌کند.",
+          "notes": [
+            "<strong>GPU</strong> = Graphics Processing Unit",
+            "برندهای معروف: NVIDIA GeForce, AMD Radeon",
+            "<strong>Render</strong> = پردازش و تولید تصویر"
+          ]
+        },
+        {
+          "id": 7,
+          "english": "Please restart your computer.",
+          "words": [
+            {"word": "please", "meaning": "لطفاً"},
+            {"word": "restart", "meaning": "راه‌اندازی مجدد / ریستارت"},
+            {"word": "computer", "meaning": "کامپیوتر"}
+          ],
+          "fullTranslation": "لطفاً کامپیوتر خود را ریستارت کنید.",
+          "notes": [
+            "<strong>Restart</strong> = خاموش و روشن کردن مجدد",
+            "<strong>Shutdown</strong> = خاموش کردن",
+            "<strong>Boot</strong> = راه‌اندازی اولیه سیستم"
+          ]
+        },
+        {
+          "id": 8,
+          "english": "The motherboard connects all components.",
+          "words": [
+            {"word": "motherboard", "meaning": "مادربرد / برد اصلی"},
+            {"word": "connects", "meaning": "متصل می‌کند"},
+            {"word": "components", "meaning": "قطعات / اجزا"}
+          ],
+          "fullTranslation": "مادربرد تمام قطعات را به هم متصل می‌کند.",
+          "notes": [
+            "<strong>Motherboard</strong> برد اصلی که همه قطعات روی آن نصب می‌شوند",
+            "<strong>Component</strong> = قطعه / جزء",
+            "قطعات اصلی: CPU, RAM, GPU, Storage"
+          ]
+        },
+        {
+          "id": 9,
+          "english": "The power supply provides electricity.",
+          "words": [
+            {"word": "power supply", "meaning": "منبع تغذیه / پاور"},
+            {"word": "provides", "meaning": "تأمین می‌کند"},
+            {"word": "electricity", "meaning": "برق / الکتریسیته"}
+          ],
+          "fullTranslation": "منبع تغذیه برق را تأمین می‌کند.",
+          "notes": [
+            "<strong>PSU</strong> = Power Supply Unit",
+            "واحد توان: Watt (وات) - مثلاً 500W, 750W",
+            "<strong>Power</strong> = قدرت / برق"
+          ]
+        },
+        {
+          "id": 10,
+          "english": "Install the operating system on your computer.",
+          "words": [
+            {"word": "install", "meaning": "نصب کردن"},
+            {"word": "operating system", "meaning": "سیستم عامل"},
+            {"word": "computer", "meaning": "کامپیوتر"}
+          ],
+          "fullTranslation": "سیستم عامل را روی کامپیوتر خود نصب کنید.",
+          "notes": [
+            "<strong>OS</strong> = Operating System (سیستم عامل)",
+            "سیستم عامل‌های معروف: Windows, macOS, Linux",
+            "<strong>Install</strong> = نصب، <strong>Uninstall</strong> = حذف"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {"english": "Computer", "persian": "کامپیوتر / رایانه"},
+        {"english": "Processor (CPU)", "persian": "پردازنده"},
+        {"english": "RAM", "persian": "حافظه موقت / رم"},
+        {"english": "Hard Drive", "persian": "هارد دیسک"},
+        {"english": "Monitor", "persian": "مانیتور / نمایشگر"},
+        {"english": "Keyboard", "persian": "صفحه کلید"},
+        {"english": "Mouse", "persian": "موس"},
+        {"english": "Graphics Card (GPU)", "persian": "کارت گرافیک"},
+        {"english": "Motherboard", "persian": "مادربرد"},
+        {"english": "Operating System", "persian": "سیستم عامل"}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "برنامه‌نویسی و توسعه نرم‌افزار",
+      "description": "در این فصل با واژگان و جملات تخصصی برنامه‌نویسی (C#, JavaScript, HTML و...) آشنا می‌شوید",
+      "icon": "👨‍💻",
+      "sentences": [
+        {
+          "id": 1,
+          "english": "I am learning C# programming language.",
+          "words": [
+            {"word": "learning", "meaning": "یاد گرفتن / آموختن"},
+            {"word": "C#", "meaning": "سی‌شارپ (زبان برنامه‌نویسی)"},
+            {"word": "programming language", "meaning": "زبان برنامه‌نویسی"}
+          ],
+          "fullTranslation": "من دارم زبان برنامه‌نویسی C# را یاد می‌گیرم.",
+          "notes": [
+            "<strong>C#</strong> (سی‌شارپ) زبان مایکروسافت برای توسعه .NET",
+            "کاربردها: برنامه‌های ویندوز، بازی‌سازی با Unity، وب با ASP.NET",
+            "<strong>Programming</strong> = برنامه‌نویسی"
+          ]
+        },
+        {
+          "id": 2,
+          "english": "JavaScript runs in the browser.",
+          "words": [
+            {"word": "JavaScript", "meaning": "جاوااسکریپت"},
+            {"word": "runs", "meaning": "اجرا می‌شود"},
+            {"word": "browser", "meaning": "مرورگر"}
+          ],
+          "fullTranslation": "جاوااسکریپت در مرورگر اجرا می‌شود.",
+          "notes": [
+            "<strong>JavaScript</strong> زبان اصلی وب برای تعامل با کاربر",
+            "فریم‌ورک‌های معروف: React, Vue, Angular",
+            "<strong>Browser</strong> = مرورگر (Chrome, Firefox, Edge)"
+          ]
+        },
+        {
+          "id": 3,
+          "english": "HTML defines the structure of a webpage.",
+          "words": [
+            {"word": "HTML", "meaning": "اچ‌تی‌ام‌ال"},
+            {"word": "defines", "meaning": "تعریف می‌کند"},
+            {"word": "structure", "meaning": "ساختار"},
+            {"word": "webpage", "meaning": "صفحه وب"}
+          ],
+          "fullTranslation": "HTML ساختار یک صفحه وب را تعریف می‌کند.",
+          "notes": [
+            "<strong>HTML</strong> = HyperText Markup Language",
+            "تگ‌های اصلی: &lt;html&gt;, &lt;head&gt;, &lt;body&gt;, &lt;div&gt;",
+            "HTML زبان برنامه‌نویسی نیست، زبان نشانه‌گذاری است"
+          ]
+        },
+        {
+          "id": 4,
+          "english": "CSS styles the HTML elements.",
+          "words": [
+            {"word": "CSS", "meaning": "سی‌اس‌اس"},
+            {"word": "styles", "meaning": "استایل می‌دهد / ظاهر می‌دهد"},
+            {"word": "elements", "meaning": "عناصر / المان‌ها"}
+          ],
+          "fullTranslation": "CSS به عناصر HTML ظاهر می‌دهد.",
+          "notes": [
+            "<strong>CSS</strong> = Cascading Style Sheets",
+            "ویژگی‌های رایج: color, font-size, margin, padding",
+            "<strong>Style</strong> = استایل / ظاهر"
+          ]
+        },
+        {
+          "id": 5,
+          "english": "The function returns a value.",
+          "words": [
+            {"word": "function", "meaning": "تابع"},
+            {"word": "returns", "meaning": "برمی‌گرداند"},
+            {"word": "value", "meaning": "مقدار"}
+          ],
+          "fullTranslation": "تابع یک مقدار برمی‌گرداند.",
+          "notes": [
+            "<strong>Function</strong> = تابع، بلوکی از کد قابل استفاده مجدد",
+            "<strong>Return</strong> = برگرداندن مقدار از تابع",
+            "در C#: <code>int Add(int a, int b) { return a + b; }</code>"
+          ]
+        },
+        {
+          "id": 6,
+          "english": "Declare a variable to store data.",
+          "words": [
+            {"word": "declare", "meaning": "تعریف کردن / اعلان کردن"},
+            {"word": "variable", "meaning": "متغیر"},
+            {"word": "store", "meaning": "ذخیره کردن"},
+            {"word": "data", "meaning": "داده"}
+          ],
+          "fullTranslation": "یک متغیر برای ذخیره داده تعریف کنید.",
+          "notes": [
+            "<strong>Variable</strong> = متغیر، محلی برای ذخیره داده",
+            "در C#: <code>int age = 25;</code>",
+            "در JavaScript: <code>let age = 25;</code> یا <code>const name = 'Ali';</code>"
+          ]
+        },
+        {
+          "id": 7,
+          "english": "The loop iterates through the array.",
+          "words": [
+            {"word": "loop", "meaning": "حلقه"},
+            {"word": "iterates", "meaning": "تکرار می‌کند / پیمایش می‌کند"},
+            {"word": "array", "meaning": "آرایه"}
+          ],
+          "fullTranslation": "حلقه روی آرایه پیمایش می‌کند.",
+          "notes": [
+            "انواع حلقه: <strong>for</strong>, <strong>while</strong>, <strong>foreach</strong>",
+            "<strong>Array</strong> = آرایه، مجموعه‌ای از داده‌ها",
+            "در C#: <code>foreach (var item in array) { }</code>"
+          ]
+        },
+        {
+          "id": 8,
+          "english": "The class contains properties and methods.",
+          "words": [
+            {"word": "class", "meaning": "کلاس"},
+            {"word": "contains", "meaning": "شامل می‌شود / دارد"},
+            {"word": "properties", "meaning": "ویژگی‌ها / پراپرتی‌ها"},
+            {"word": "methods", "meaning": "متدها / توابع"}
+          ],
+          "fullTranslation": "کلاس شامل ویژگی‌ها و متدها می‌شود.",
+          "notes": [
+            "<strong>Class</strong> = کلاس، الگوی ساخت اشیاء (OOP)",
+            "<strong>Property</strong> = ویژگی، <strong>Method</strong> = متد/تابع",
+            "در C#: <code>public class Person { public string Name { get; set; } }</code>"
+          ]
+        },
+        {
+          "id": 9,
+          "english": "Debug the code to find the error.",
+          "words": [
+            {"word": "debug", "meaning": "دیباگ کردن / اشکال‌زدایی"},
+            {"word": "code", "meaning": "کد"},
+            {"word": "find", "meaning": "پیدا کردن"},
+            {"word": "error", "meaning": "خطا / ارور"}
+          ],
+          "fullTranslation": "کد را دیباگ کنید تا خطا را پیدا کنید.",
+          "notes": [
+            "<strong>Debug</strong> = اشکال‌زدایی، پیدا کردن و رفع خطا",
+            "<strong>Bug</strong> = باگ / اشکال در برنامه",
+            "ابزارهای دیباگ: Breakpoint, Console.log, Watch"
+          ]
+        },
+        {
+          "id": 10,
+          "english": "The API returns JSON data.",
+          "words": [
+            {"word": "API", "meaning": "ای‌پی‌آی / رابط برنامه‌نویسی"},
+            {"word": "returns", "meaning": "برمی‌گرداند"},
+            {"word": "JSON", "meaning": "جیسون"},
+            {"word": "data", "meaning": "داده"}
+          ],
+          "fullTranslation": "API داده‌های JSON برمی‌گرداند.",
+          "notes": [
+            "<strong>API</strong> = Application Programming Interface",
+            "<strong>JSON</strong> = JavaScript Object Notation (فرمت تبادل داده)",
+            "مثال JSON: <code>{\"name\": \"Ali\", \"age\": 25}</code>"
+          ]
+        },
+        {
+          "id": 11,
+          "english": "ASP.NET Core is a web framework.",
+          "words": [
+            {"word": "ASP.NET Core", "meaning": "ای‌اس‌پی دات‌نت کور"},
+            {"word": "web framework", "meaning": "فریم‌ورک وب"}
+          ],
+          "fullTranslation": "ASP.NET Core یک فریم‌ورک وب است.",
+          "notes": [
+            "<strong>ASP.NET Core</strong> فریم‌ورک مایکروسافت برای ساخت وب‌اپلیکیشن",
+            "<strong>Framework</strong> = چارچوب / فریم‌ورک",
+            "مزایا: Cross-platform, High performance, Open source"
+          ]
+        },
+        {
+          "id": 12,
+          "english": "Commit your changes to the repository.",
+          "words": [
+            {"word": "commit", "meaning": "کامیت کردن / ثبت تغییرات"},
+            {"word": "changes", "meaning": "تغییرات"},
+            {"word": "repository", "meaning": "مخزن / ریپازیتوری"}
+          ],
+          "fullTranslation": "تغییرات خود را در مخزن کامیت کنید.",
+          "notes": [
+            "<strong>Git</strong> سیستم کنترل نسخه محبوب",
+            "دستورات Git: <code>git add</code>, <code>git commit</code>, <code>git push</code>",
+            "<strong>Repository</strong> = مخزن کد (مثل GitHub, GitLab)"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {"english": "Programming", "persian": "برنامه‌نویسی"},
+        {"english": "Variable", "persian": "متغیر"},
+        {"english": "Function", "persian": "تابع"},
+        {"english": "Class", "persian": "کلاس"},
+        {"english": "Method", "persian": "متد"},
+        {"english": "Array", "persian": "آرایه"},
+        {"english": "Loop", "persian": "حلقه"},
+        {"english": "Debug", "persian": "اشکال‌زدایی"},
+        {"english": "API", "persian": "رابط برنامه‌نویسی"},
+        {"english": "Framework", "persian": "فریم‌ورک / چارچوب"},
+        {"english": "Repository", "persian": "مخزن کد"}
+      ]
+    },
+    {
+      "id": 5,
+      "title": "پایگاه داده و SQL",
+      "description": "در این فصل با واژگان و جملات تخصصی پایگاه داده و SQL آشنا می‌شوید",
+      "icon": "🗄️",
+      "sentences": [
+        {
+          "id": 1,
+          "english": "The database stores structured data.",
+          "words": [
+            {"word": "database", "meaning": "پایگاه داده / دیتابیس"},
+            {"word": "stores", "meaning": "ذخیره می‌کند"},
+            {"word": "structured", "meaning": "ساختاریافته"},
+            {"word": "data", "meaning": "داده"}
+          ],
+          "fullTranslation": "پایگاه داده، داده‌های ساختاریافته را ذخیره می‌کند.",
+          "notes": [
+            "<strong>Database</strong> = پایگاه داده، محل ذخیره‌سازی داده‌ها",
+            "انواع دیتابیس: SQL (رابطه‌ای) و NoSQL (غیررابطه‌ای)",
+            "دیتابیس‌های معروف: SQL Server, MySQL, PostgreSQL, MongoDB"
+          ]
+        },
+        {
+          "id": 2,
+          "english": "Create a new table in the database.",
+          "words": [
+            {"word": "create", "meaning": "ایجاد کردن"},
+            {"word": "table", "meaning": "جدول"},
+            {"word": "database", "meaning": "پایگاه داده"}
+          ],
+          "fullTranslation": "یک جدول جدید در پایگاه داده ایجاد کنید.",
+          "notes": [
+            "<strong>Table</strong> = جدول، ساختار اصلی ذخیره داده در SQL",
+            "دستور SQL: <code>CREATE TABLE users (id INT, name VARCHAR(100));</code>",
+            "هر جدول شامل ستون‌ها (Columns) و ردیف‌ها (Rows) است"
+          ]
+        },
+        {
+          "id": 3,
+          "english": "SELECT all records from the users table.",
+          "words": [
+            {"word": "SELECT", "meaning": "انتخاب کردن"},
+            {"word": "records", "meaning": "رکوردها / سطرها"},
+            {"word": "users", "meaning": "کاربران"},
+            {"word": "table", "meaning": "جدول"}
+          ],
+          "fullTranslation": "تمام رکوردها را از جدول کاربران انتخاب کنید.",
+          "notes": [
+            "<strong>SELECT</strong> دستور خواندن داده در SQL",
+            "دستور: <code>SELECT * FROM users;</code>",
+            "<strong>*</strong> یعنی همه ستون‌ها"
+          ]
+        },
+        {
+          "id": 4,
+          "english": "INSERT a new row into the table.",
+          "words": [
+            {"word": "INSERT", "meaning": "درج کردن"},
+            {"word": "row", "meaning": "ردیف / سطر"},
+            {"word": "table", "meaning": "جدول"}
+          ],
+          "fullTranslation": "یک ردیف جدید در جدول درج کنید.",
+          "notes": [
+            "<strong>INSERT</strong> دستور افزودن داده جدید",
+            "دستور: <code>INSERT INTO users (name, email) VALUES ('Ali', 'ali@email.com');</code>",
+            "<strong>Row</strong> = ردیف/سطر، <strong>Column</strong> = ستون"
+          ]
+        },
+        {
+          "id": 5,
+          "english": "UPDATE the user's email address.",
+          "words": [
+            {"word": "UPDATE", "meaning": "به‌روزرسانی کردن"},
+            {"word": "user's", "meaning": "مال کاربر"},
+            {"word": "email address", "meaning": "آدرس ایمیل"}
+          ],
+          "fullTranslation": "آدرس ایمیل کاربر را به‌روزرسانی کنید.",
+          "notes": [
+            "<strong>UPDATE</strong> دستور ویرایش داده موجود",
+            "دستور: <code>UPDATE users SET email = 'new@email.com' WHERE id = 1;</code>",
+            "همیشه از <strong>WHERE</strong> استفاده کنید تا همه داده‌ها تغییر نکند"
+          ]
+        },
+        {
+          "id": 6,
+          "english": "DELETE the record from the database.",
+          "words": [
+            {"word": "DELETE", "meaning": "حذف کردن"},
+            {"word": "record", "meaning": "رکورد / سطر"},
+            {"word": "database", "meaning": "پایگاه داده"}
+          ],
+          "fullTranslation": "رکورد را از پایگاه داده حذف کنید.",
+          "notes": [
+            "<strong>DELETE</strong> دستور حذف داده",
+            "دستور: <code>DELETE FROM users WHERE id = 1;</code>",
+            "⚠️ بدون WHERE همه داده‌ها حذف می‌شوند!"
+          ]
+        },
+        {
+          "id": 7,
+          "english": "The primary key uniquely identifies each record.",
+          "words": [
+            {"word": "primary key", "meaning": "کلید اصلی"},
+            {"word": "uniquely", "meaning": "به صورت یکتا"},
+            {"word": "identifies", "meaning": "شناسایی می‌کند"},
+            {"word": "record", "meaning": "رکورد"}
+          ],
+          "fullTranslation": "کلید اصلی هر رکورد را به صورت یکتا شناسایی می‌کند.",
+          "notes": [
+            "<strong>Primary Key</strong> = کلید اصلی، مقدار یکتا برای هر ردیف",
+            "معمولاً ستون ID به عنوان کلید اصلی استفاده می‌شود",
+            "<strong>Foreign Key</strong> = کلید خارجی، ارتباط بین جداول"
+          ]
+        },
+        {
+          "id": 8,
+          "english": "JOIN two tables to combine data.",
+          "words": [
+            {"word": "JOIN", "meaning": "اتصال / جوین"},
+            {"word": "tables", "meaning": "جداول"},
+            {"word": "combine", "meaning": "ترکیب کردن"},
+            {"word": "data", "meaning": "داده"}
+          ],
+          "fullTranslation": "دو جدول را برای ترکیب داده‌ها به هم متصل کنید.",
+          "notes": [
+            "<strong>JOIN</strong> برای ترکیب داده از چند جدول",
+            "انواع: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN",
+            "دستور: <code>SELECT * FROM users JOIN orders ON users.id = orders.user_id;</code>"
+          ]
+        },
+        {
+          "id": 9,
+          "english": "Create an index to improve query performance.",
+          "words": [
+            {"word": "index", "meaning": "ایندکس / شاخص"},
+            {"word": "improve", "meaning": "بهبود دادن"},
+            {"word": "query", "meaning": "کوئری / پرس‌وجو"},
+            {"word": "performance", "meaning": "عملکرد / کارایی"}
+          ],
+          "fullTranslation": "یک ایندکس برای بهبود عملکرد کوئری ایجاد کنید.",
+          "notes": [
+            "<strong>Index</strong> = ایندکس، ساختاری برای جستجوی سریع‌تر",
+            "دستور: <code>CREATE INDEX idx_name ON users(name);</code>",
+            "<strong>Query</strong> = کوئری/پرس‌وجو، دستور SQL"
+          ]
+        },
+        {
+          "id": 10,
+          "english": "Backup the database regularly.",
+          "words": [
+            {"word": "backup", "meaning": "پشتیبان‌گیری / بکاپ"},
+            {"word": "database", "meaning": "پایگاه داده"},
+            {"word": "regularly", "meaning": "به طور منظم"}
+          ],
+          "fullTranslation": "به طور منظم از پایگاه داده پشتیبان بگیرید.",
+          "notes": [
+            "<strong>Backup</strong> = پشتیبان‌گیری، کپی امن از داده‌ها",
+            "<strong>Restore</strong> = بازیابی، برگرداندن از بکاپ",
+            "بکاپ‌گیری منظم از مهم‌ترین کارهای مدیریت دیتابیس است"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {"english": "Database", "persian": "پایگاه داده"},
+        {"english": "Table", "persian": "جدول"},
+        {"english": "Query", "persian": "کوئری / پرس‌وجو"},
+        {"english": "Record/Row", "persian": "رکورد / ردیف"},
+        {"english": "Column", "persian": "ستون"},
+        {"english": "Primary Key", "persian": "کلید اصلی"},
+        {"english": "Foreign Key", "persian": "کلید خارجی"},
+        {"english": "Index", "persian": "ایندکس / شاخص"},
+        {"english": "Backup", "persian": "پشتیبان‌گیری"}
+      ]
+    },
+    {
+      "id": 6,
+      "title": "شبکه و اینترنت",
+      "description": "در این فصل با واژگان و جملات تخصصی شبکه، اینترنت و پروتکل‌ها آشنا می‌شوید",
+      "icon": "🌐",
+      "sentences": [
+        {
+          "id": 1,
+          "english": "The server hosts the website.",
+          "words": [
+            {"word": "server", "meaning": "سرور / کارگزار"},
+            {"word": "hosts", "meaning": "میزبانی می‌کند"},
+            {"word": "website", "meaning": "وب‌سایت"}
+          ],
+          "fullTranslation": "سرور وب‌سایت را میزبانی می‌کند.",
+          "notes": [
+            "<strong>Server</strong> = سرور، کامپیوتری که سرویس ارائه می‌دهد",
+            "<strong>Client</strong> = کلاینت، دستگاهی که سرویس دریافت می‌کند",
+            "<strong>Host</strong> = میزبان / میزبانی کردن"
+          ]
+        },
+        {
+          "id": 2,
+          "english": "HTTP is a protocol for web communication.",
+          "words": [
+            {"word": "HTTP", "meaning": "اچ‌تی‌تی‌پی"},
+            {"word": "protocol", "meaning": "پروتکل / قرارداد"},
+            {"word": "web", "meaning": "وب"},
+            {"word": "communication", "meaning": "ارتباط"}
+          ],
+          "fullTranslation": "HTTP یک پروتکل برای ارتباط وب است.",
+          "notes": [
+            "<strong>HTTP</strong> = HyperText Transfer Protocol",
+            "<strong>HTTPS</strong> = نسخه امن با رمزنگاری SSL/TLS",
+            "<strong>Protocol</strong> = قرارداد ارتباطی بین سیستم‌ها"
+          ]
+        },
+        {
+          "id": 3,
+          "english": "The IP address identifies the device on the network.",
+          "words": [
+            {"word": "IP address", "meaning": "آدرس آی‌پی"},
+            {"word": "identifies", "meaning": "شناسایی می‌کند"},
+            {"word": "device", "meaning": "دستگاه"},
+            {"word": "network", "meaning": "شبکه"}
+          ],
+          "fullTranslation": "آدرس IP دستگاه را در شبکه شناسایی می‌کند.",
+          "notes": [
+            "<strong>IP</strong> = Internet Protocol",
+            "IPv4: مثل 192.168.1.1 | IPv6: نسخه جدیدتر",
+            "<strong>Network</strong> = شبکه، اتصال چند دستگاه به هم"
+          ]
+        },
+        {
+          "id": 4,
+          "english": "DNS translates domain names to IP addresses.",
+          "words": [
+            {"word": "DNS", "meaning": "دی‌ان‌اس"},
+            {"word": "translates", "meaning": "ترجمه می‌کند"},
+            {"word": "domain names", "meaning": "نام‌های دامنه"},
+            {"word": "IP addresses", "meaning": "آدرس‌های آی‌پی"}
+          ],
+          "fullTranslation": "DNS نام‌های دامنه را به آدرس‌های IP ترجمه می‌کند.",
+          "notes": [
+            "<strong>DNS</strong> = Domain Name System",
+            "مثال: google.com → 142.250.185.78",
+            "<strong>Domain</strong> = دامنه، نام قابل خواندن وب‌سایت"
+          ]
+        },
+        {
+          "id": 5,
+          "english": "The firewall protects the network from attacks.",
+          "words": [
+            {"word": "firewall", "meaning": "فایروال / دیوار آتش"},
+            {"word": "protects", "meaning": "محافظت می‌کند"},
+            {"word": "network", "meaning": "شبکه"},
+            {"word": "attacks", "meaning": "حملات"}
+          ],
+          "fullTranslation": "فایروال از شبکه در برابر حملات محافظت می‌کند.",
+          "notes": [
+            "<strong>Firewall</strong> = دیوار آتش، سیستم امنیتی شبکه",
+            "فایروال ترافیک ورودی و خروجی را کنترل می‌کند",
+            "<strong>Attack</strong> = حمله سایبری"
+          ]
+        },
+        {
+          "id": 6,
+          "english": "The router connects multiple networks.",
+          "words": [
+            {"word": "router", "meaning": "روتر / مسیریاب"},
+            {"word": "connects", "meaning": "متصل می‌کند"},
+            {"word": "multiple", "meaning": "چندین"},
+            {"word": "networks", "meaning": "شبکه‌ها"}
+          ],
+          "fullTranslation": "روتر چندین شبکه را به هم متصل می‌کند.",
+          "notes": [
+            "<strong>Router</strong> = روتر، دستگاه مسیریابی شبکه",
+            "<strong>Switch</strong> = سوئیچ، اتصال دستگاه‌ها در یک شبکه",
+            "<strong>Modem</strong> = مودم، اتصال به اینترنت"
+          ]
+        },
+        {
+          "id": 7,
+          "english": "Download the file from the cloud.",
+          "words": [
+            {"word": "download", "meaning": "دانلود کردن"},
+            {"word": "file", "meaning": "فایل"},
+            {"word": "cloud", "meaning": "ابر / کلود"}
+          ],
+          "fullTranslation": "فایل را از فضای ابری دانلود کنید.",
+          "notes": [
+            "<strong>Download</strong> = دانلود، دریافت فایل",
+            "<strong>Upload</strong> = آپلود، ارسال فایل",
+            "<strong>Cloud</strong> = فضای ابری (AWS, Azure, Google Cloud)"
+          ]
+        },
+        {
+          "id": 8,
+          "english": "The bandwidth determines the data transfer speed.",
+          "words": [
+            {"word": "bandwidth", "meaning": "پهنای باند"},
+            {"word": "determines", "meaning": "تعیین می‌کند"},
+            {"word": "data transfer", "meaning": "انتقال داده"},
+            {"word": "speed", "meaning": "سرعت"}
+          ],
+          "fullTranslation": "پهنای باند سرعت انتقال داده را تعیین می‌کند.",
+          "notes": [
+            "<strong>Bandwidth</strong> = پهنای باند، ظرفیت انتقال داده",
+            "واحد: Mbps (مگابیت بر ثانیه), Gbps (گیگابیت بر ثانیه)",
+            "<strong>Latency</strong> = تأخیر، زمان رسیدن داده"
+          ]
+        },
+        {
+          "id": 9,
+          "english": "Use VPN for secure connection.",
+          "words": [
+            {"word": "VPN", "meaning": "وی‌پی‌ان"},
+            {"word": "secure", "meaning": "امن"},
+            {"word": "connection", "meaning": "اتصال"}
+          ],
+          "fullTranslation": "برای اتصال امن از VPN استفاده کنید.",
+          "notes": [
+            "<strong>VPN</strong> = Virtual Private Network (شبکه خصوصی مجازی)",
+            "VPN ترافیک را رمزنگاری می‌کند",
+            "<strong>Encryption</strong> = رمزنگاری"
+          ]
+        },
+        {
+          "id": 10,
+          "english": "The API endpoint accepts HTTP requests.",
+          "words": [
+            {"word": "API", "meaning": "ای‌پی‌آی"},
+            {"word": "endpoint", "meaning": "نقطه پایانی / اندپوینت"},
+            {"word": "accepts", "meaning": "می‌پذیرد"},
+            {"word": "HTTP requests", "meaning": "درخواست‌های HTTP"}
+          ],
+          "fullTranslation": "اندپوینت API درخواست‌های HTTP را می‌پذیرد.",
+          "notes": [
+            "<strong>Endpoint</strong> = آدرس URL که API در آن پاسخ می‌دهد",
+            "متدهای HTTP: GET, POST, PUT, DELETE",
+            "<strong>Request</strong> = درخواست، <strong>Response</strong> = پاسخ"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {"english": "Server", "persian": "سرور"},
+        {"english": "Client", "persian": "کلاینت"},
+        {"english": "Network", "persian": "شبکه"},
+        {"english": "Protocol", "persian": "پروتکل"},
+        {"english": "IP Address", "persian": "آدرس آی‌پی"},
+        {"english": "DNS", "persian": "سیستم نام دامنه"},
+        {"english": "Firewall", "persian": "فایروال"},
+        {"english": "Router", "persian": "روتر"},
+        {"english": "Cloud", "persian": "فضای ابری"},
+        {"english": "Bandwidth", "persian": "پهنای باند"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "امنیت سایبری",
+      "description": "در این فصل با واژگان و جملات تخصصی امنیت اطلاعات و سایبری آشنا می‌شوید",
+      "icon": "🔒",
+      "sentences": [
+        {
+          "id": 1,
+          "english": "Encrypt sensitive data before storing.",
+          "words": [
+            {"word": "encrypt", "meaning": "رمزنگاری کردن"},
+            {"word": "sensitive", "meaning": "حساس"},
+            {"word": "data", "meaning": "داده"},
+            {"word": "storing", "meaning": "ذخیره کردن"}
+          ],
+          "fullTranslation": "داده‌های حساس را قبل از ذخیره رمزنگاری کنید.",
+          "notes": [
+            "<strong>Encrypt</strong> = رمزنگاری، تبدیل به کد غیرقابل خواندن",
+            "<strong>Decrypt</strong> = رمزگشایی، برگرداندن به حالت اصلی",
+            "الگوریتم‌های رمزنگاری: AES, RSA, SHA"
+          ]
+        },
+        {
+          "id": 2,
+          "english": "Use a strong password with special characters.",
+          "words": [
+            {"word": "strong", "meaning": "قوی"},
+            {"word": "password", "meaning": "رمز عبور"},
+            {"word": "special characters", "meaning": "کاراکترهای خاص"}
+          ],
+          "fullTranslation": "از رمز عبور قوی با کاراکترهای خاص استفاده کنید.",
+          "notes": [
+            "<strong>Password</strong> = رمز عبور",
+            "رمز قوی: حداقل 8 کاراکتر، حروف بزرگ/کوچک، عدد، علامت",
+            "<strong>Two-Factor Authentication (2FA)</strong> = احراز هویت دو مرحله‌ای"
+          ]
+        },
+        {
+          "id": 3,
+          "english": "The hacker exploited a vulnerability.",
+          "words": [
+            {"word": "hacker", "meaning": "هکر"},
+            {"word": "exploited", "meaning": "سوءاستفاده کرد"},
+            {"word": "vulnerability", "meaning": "آسیب‌پذیری"}
+          ],
+          "fullTranslation": "هکر از یک آسیب‌پذیری سوءاستفاده کرد.",
+          "notes": [
+            "<strong>Hacker</strong> = هکر، نفوذگر به سیستم‌ها",
+            "<strong>Vulnerability</strong> = آسیب‌پذیری، نقطه ضعف امنیتی",
+            "<strong>Exploit</strong> = سوءاستفاده از آسیب‌پذیری"
+          ]
+        },
+        {
+          "id": 4,
+          "english": "Install antivirus software to protect your system.",
+          "words": [
+            {"word": "install", "meaning": "نصب کردن"},
+            {"word": "antivirus", "meaning": "آنتی‌ویروس"},
+            {"word": "software", "meaning": "نرم‌افزار"},
+            {"word": "protect", "meaning": "محافظت کردن"}
+          ],
+          "fullTranslation": "نرم‌افزار آنتی‌ویروس نصب کنید تا از سیستم محافظت شود.",
+          "notes": [
+            "<strong>Antivirus</strong> = آنتی‌ویروس، نرم‌افزار ضد بدافزار",
+            "<strong>Malware</strong> = بدافزار (Virus, Trojan, Worm, Ransomware)",
+            "همیشه آنتی‌ویروس را به‌روز نگه دارید"
+          ]
+        },
+        {
+          "id": 5,
+          "english": "Phishing attacks steal user credentials.",
+          "words": [
+            {"word": "phishing", "meaning": "فیشینگ"},
+            {"word": "attacks", "meaning": "حملات"},
+            {"word": "steal", "meaning": "سرقت کردن"},
+            {"word": "credentials", "meaning": "اعتبارنامه‌ها / اطلاعات ورود"}
+          ],
+          "fullTranslation": "حملات فیشینگ اطلاعات ورود کاربران را سرقت می‌کنند.",
+          "notes": [
+            "<strong>Phishing</strong> = فیشینگ، فریب کاربر برای دادن اطلاعات",
+            "<strong>Credentials</strong> = نام کاربری و رمز عبور",
+            "هرگز روی لینک‌های مشکوک کلیک نکنید"
+          ]
+        },
+        {
+          "id": 6,
+          "english": "The SSL certificate secures the connection.",
+          "words": [
+            {"word": "SSL certificate", "meaning": "گواهی SSL"},
+            {"word": "secures", "meaning": "امن می‌کند"},
+            {"word": "connection", "meaning": "اتصال"}
+          ],
+          "fullTranslation": "گواهی SSL اتصال را امن می‌کند.",
+          "notes": [
+            "<strong>SSL</strong> = Secure Sockets Layer",
+            "<strong>TLS</strong> = Transport Layer Security (نسخه جدیدتر)",
+            "سایت‌های امن با https:// شروع می‌شوند و قفل سبز دارند"
+          ]
+        },
+        {
+          "id": 7,
+          "english": "Implement input validation to prevent SQL injection.",
+          "words": [
+            {"word": "implement", "meaning": "پیاده‌سازی کردن"},
+            {"word": "input validation", "meaning": "اعتبارسنجی ورودی"},
+            {"word": "prevent", "meaning": "جلوگیری کردن"},
+            {"word": "SQL injection", "meaning": "تزریق SQL"}
+          ],
+          "fullTranslation": "اعتبارسنجی ورودی را پیاده‌سازی کنید تا از تزریق SQL جلوگیری شود.",
+          "notes": [
+            "<strong>SQL Injection</strong> = تزریق کد SQL مخرب",
+            "<strong>Input Validation</strong> = بررسی صحت داده‌های ورودی",
+            "همیشه ورودی‌های کاربر را اعتبارسنجی کنید"
+          ]
+        },
+        {
+          "id": 8,
+          "english": "Hash the password before saving to database.",
+          "words": [
+            {"word": "hash", "meaning": "هش کردن"},
+            {"word": "password", "meaning": "رمز عبور"},
+            {"word": "saving", "meaning": "ذخیره کردن"},
+            {"word": "database", "meaning": "پایگاه داده"}
+          ],
+          "fullTranslation": "رمز عبور را قبل از ذخیره در دیتابیس هش کنید.",
+          "notes": [
+            "<strong>Hash</strong> = تبدیل یک‌طرفه به رشته ثابت",
+            "الگوریتم‌های هش: MD5 (ناامن), SHA-256, bcrypt",
+            "هش برخلاف رمزنگاری قابل برگشت نیست"
+          ]
+        },
+        {
+          "id": 9,
+          "english": "The security audit found several issues.",
+          "words": [
+            {"word": "security audit", "meaning": "ممیزی امنیتی"},
+            {"word": "found", "meaning": "پیدا کرد"},
+            {"word": "several", "meaning": "چندین"},
+            {"word": "issues", "meaning": "مشکلات"}
+          ],
+          "fullTranslation": "ممیزی امنیتی چندین مشکل پیدا کرد.",
+          "notes": [
+            "<strong>Security Audit</strong> = بررسی و ارزیابی امنیت سیستم",
+            "<strong>Penetration Testing</strong> = تست نفوذ",
+            "ممیزی امنیتی باید به صورت دوره‌ای انجام شود"
+          ]
+        },
+        {
+          "id": 10,
+          "english": "Enable multi-factor authentication for extra security.",
+          "words": [
+            {"word": "enable", "meaning": "فعال کردن"},
+            {"word": "multi-factor authentication", "meaning": "احراز هویت چند عاملی"},
+            {"word": "extra", "meaning": "اضافی"},
+            {"word": "security", "meaning": "امنیت"}
+          ],
+          "fullTranslation": "احراز هویت چند عاملی را برای امنیت بیشتر فعال کنید.",
+          "notes": [
+            "<strong>MFA</strong> = Multi-Factor Authentication",
+            "عوامل: چیزی که می‌دانید (رمز)، چیزی که دارید (گوشی)، چیزی که هستید (اثر انگشت)",
+            "MFA امنیت را به شدت افزایش می‌دهد"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {"english": "Encryption", "persian": "رمزنگاری"},
+        {"english": "Password", "persian": "رمز عبور"},
+        {"english": "Hacker", "persian": "هکر"},
+        {"english": "Vulnerability", "persian": "آسیب‌پذیری"},
+        {"english": "Malware", "persian": "بدافزار"},
+        {"english": "Phishing", "persian": "فیشینگ"},
+        {"english": "SSL/TLS", "persian": "پروتکل امنیتی"},
+        {"english": "Hash", "persian": "هش"},
+        {"english": "Authentication", "persian": "احراز هویت"}
+      ]
+    },
+    {
+      "id": 8,
+      "title": "توسعه وب و فرانت‌اند",
+      "description": "در این فصل با واژگان و جملات تخصصی توسعه وب، React، و فرانت‌اند آشنا می‌شوید",
+      "icon": "🎨",
+      "sentences": [
+        {
+          "id": 1,
+          "english": "React is a JavaScript library for building user interfaces.",
+          "words": [
+            {"word": "React", "meaning": "ری‌اکت"},
+            {"word": "JavaScript library", "meaning": "کتابخانه جاوااسکریپت"},
+            {"word": "building", "meaning": "ساختن"},
+            {"word": "user interfaces", "meaning": "رابط‌های کاربری"}
+          ],
+          "fullTranslation": "React یک کتابخانه جاوااسکریپت برای ساخت رابط‌های کاربری است.",
+          "notes": [
+            "<strong>React</strong> کتابخانه فیسبوک برای ساخت UI",
+            "<strong>UI</strong> = User Interface (رابط کاربری)",
+            "رقبا: Vue.js, Angular, Svelte"
+          ]
+        },
+        {
+          "id": 2,
+          "english": "The component renders HTML elements.",
+          "words": [
+            {"word": "component", "meaning": "کامپوننت / جزء"},
+            {"word": "renders", "meaning": "رندر می‌کند"},
+            {"word": "HTML elements", "meaning": "عناصر HTML"}
+          ],
+          "fullTranslation": "کامپوننت عناصر HTML را رندر می‌کند.",
+          "notes": [
+            "<strong>Component</strong> = بلوک سازنده UI در React",
+            "کامپوننت‌ها قابل استفاده مجدد هستند",
+            "انواع: Function Component, Class Component"
+          ]
+        },
+        {
+          "id": 3,
+          "english": "Use useState hook to manage state.",
+          "words": [
+            {"word": "useState", "meaning": "یوز استیت"},
+            {"word": "hook", "meaning": "هوک"},
+            {"word": "manage", "meaning": "مدیریت کردن"},
+            {"word": "state", "meaning": "وضعیت / استیت"}
+          ],
+          "fullTranslation": "از هوک useState برای مدیریت state استفاده کنید.",
+          "notes": [
+            "<strong>State</strong> = داده‌های متغیر کامپوننت",
+            "<strong>Hook</strong> = توابع ویژه React (useState, useEffect, ...)",
+            "مثال: <code>const [count, setCount] = useState(0);</code>"
+          ]
+        },
+        {
+          "id": 4,
+          "english": "The DOM represents the page structure.",
+          "words": [
+            {"word": "DOM", "meaning": "دام"},
+            {"word": "represents", "meaning": "نمایش می‌دهد"},
+            {"word": "page structure", "meaning": "ساختار صفحه"}
+          ],
+          "fullTranslation": "DOM ساختار صفحه را نمایش می‌دهد.",
+          "notes": [
+            "<strong>DOM</strong> = Document Object Model",
+            "<strong>Virtual DOM</strong> = نسخه مجازی DOM در React (سریع‌تر)",
+            "JavaScript از طریق DOM صفحه را تغییر می‌دهد"
+          ]
+        },
+        {
+          "id": 5,
+          "english": "Responsive design adapts to different screen sizes.",
+          "words": [
+            {"word": "responsive design", "meaning": "طراحی واکنش‌گرا"},
+            {"word": "adapts", "meaning": "تطبیق می‌دهد"},
+            {"word": "screen sizes", "meaning": "اندازه‌های صفحه نمایش"}
+          ],
+          "fullTranslation": "طراحی واکنش‌گرا با اندازه‌های مختلف صفحه نمایش تطبیق می‌یابد.",
+          "notes": [
+            "<strong>Responsive</strong> = واکنش‌گرا، سازگار با موبایل و دسکتاپ",
+            "ابزارها: CSS Media Queries, Flexbox, Grid",
+            "فریم‌ورک‌ها: Bootstrap, Tailwind CSS"
+          ]
+        },
+        {
+          "id": 6,
+          "english": "Fetch data from the API using async/await.",
+          "words": [
+            {"word": "fetch", "meaning": "واکشی کردن"},
+            {"word": "data", "meaning": "داده"},
+            {"word": "API", "meaning": "ای‌پی‌آی"},
+            {"word": "async/await", "meaning": "اسینک/اویت"}
+          ],
+          "fullTranslation": "داده را از API با استفاده از async/await واکشی کنید.",
+          "notes": [
+            "<strong>Fetch</strong> = دریافت داده از سرور",
+            "<strong>async/await</strong> = روش مدرن کار با Promise",
+            "مثال: <code>const data = await fetch(url).then(r => r.json());</code>"
+          ]
+        },
+        {
+          "id": 7,
+          "english": "NPM is the package manager for Node.js.",
+          "words": [
+            {"word": "NPM", "meaning": "ان‌پی‌ام"},
+            {"word": "package manager", "meaning": "مدیر پکیج"},
+            {"word": "Node.js", "meaning": "نود جی‌اس"}
+          ],
+          "fullTranslation": "NPM مدیر پکیج برای Node.js است.",
+          "notes": [
+            "<strong>NPM</strong> = Node Package Manager",
+            "دستورات: <code>npm install</code>, <code>npm run</code>",
+            "جایگزین: Yarn, pnpm"
+          ]
+        },
+        {
+          "id": 8,
+          "english": "The event handler responds to user actions.",
+          "words": [
+            {"word": "event handler", "meaning": "کنترل‌کننده رویداد"},
+            {"word": "responds", "meaning": "پاسخ می‌دهد"},
+            {"word": "user actions", "meaning": "اقدامات کاربر"}
+          ],
+          "fullTranslation": "کنترل‌کننده رویداد به اقدامات کاربر پاسخ می‌دهد.",
+          "notes": [
+            "<strong>Event</strong> = رویداد (click, submit, change, ...)",
+            "<strong>Handler</strong> = تابعی که رویداد را مدیریت می‌کند",
+            "مثال: <code>onClick={() => handleClick()}</code>"
+          ]
+        },
+        {
+          "id": 9,
+          "english": "Use TypeScript for type safety.",
+          "words": [
+            {"word": "TypeScript", "meaning": "تایپ‌اسکریپت"},
+            {"word": "type safety", "meaning": "ایمنی نوع"}
+          ],
+          "fullTranslation": "برای ایمنی نوع از TypeScript استفاده کنید.",
+          "notes": [
+            "<strong>TypeScript</strong> = جاوااسکریپت با تایپ استاتیک",
+            "مزایا: کشف خطا در زمان کامپایل، کد خواناتر",
+            "مثال: <code>function add(a: number, b: number): number</code>"
+          ]
+        },
+        {
+          "id": 10,
+          "english": "Deploy the application to production.",
+          "words": [
+            {"word": "deploy", "meaning": "استقرار دادن / دیپلوی"},
+            {"word": "application", "meaning": "اپلیکیشن"},
+            {"word": "production", "meaning": "محیط تولید"}
+          ],
+          "fullTranslation": "اپلیکیشن را در محیط تولید مستقر کنید.",
+          "notes": [
+            "<strong>Deploy</strong> = انتشار و اجرای برنامه روی سرور",
+            "<strong>Production</strong> = محیط واقعی برای کاربران",
+            "پلتفرم‌ها: Vercel, Netlify, AWS, Azure"
+          ]
+        }
+      ],
+      "vocabulary": [
+        {"english": "Component", "persian": "کامپوننت"},
+        {"english": "State", "persian": "وضعیت / استیت"},
+        {"english": "Hook", "persian": "هوک"},
+        {"english": "DOM", "persian": "مدل شیء سند"},
+        {"english": "Responsive", "persian": "واکنش‌گرا"},
+        {"english": "Fetch", "persian": "واکشی"},
+        {"english": "Event", "persian": "رویداد"},
+        {"english": "Deploy", "persian": "استقرار / دیپلوی"},
+        {"english": "TypeScript", "persian": "تایپ‌اسکریپت"}
+      ]
+    }
+  ]
+}
